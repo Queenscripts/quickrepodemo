@@ -1,0 +1,13 @@
+.nav-list{
+    text-decoration: none;
+    list-style: none;
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+}
+
+.main-content{
+    background-color: aqua;
+}
